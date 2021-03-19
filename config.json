@@ -1,6 +1,6 @@
 {
     "DEFAULTS": {
-        "AUTHORS": [Botun Sahibinin ID si],
+        "sahip": [Botun Sahibinin ID si],
         "ACTIVITY_TEXT": "Botun Durumu",
         "GUILD_ID": "Server İD si",
         "VOICE_CHANNEL": "Ses Kanalının İD si",
