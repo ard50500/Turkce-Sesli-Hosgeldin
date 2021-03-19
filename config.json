@@ -2,9 +2,9 @@
     "DEFAULTS": {
         "sahip": [Botun Sahibinin ID si],
         "oynuyor": "Botun Durumu",
-        "GUILD_ID": "Server İD si",
-        "VOICE_CHANNEL": "Ses Kanalının İD si",
-        "MIN_STAFF_ROLE": "Yetkili Rolü İD si"
+        "serverid": "Server İD si",
+        "seskanali": "Ses Kanalının İD si",
+        "yetkili": "Yetkili Rolü İD si"
     },
     "FILES": {
         "WELCOME": "default_files/Burlara Kendi Ses Dosyanızı Atıcaksınız",
