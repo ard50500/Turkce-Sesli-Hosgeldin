@@ -23,13 +23,13 @@ Voice.on("ready", async() => {
 
     Voice.log(`Voice client \'${Voice.user.username}\' has been activated!`);
 
-    const Guild = Voice.guilds.cache.get(CONFIG.DEFAULTS.GUILD_ID) || Voice.guilds.cache.first();
+    const Guild = Voice.guilds.cache.get(CONFIG.DEFAULTS.serverid) || Voice.guilds.cache.first();
     if(!Guild) {
         Voice.error("Server Bulunamadı!");
         return Voice.destroy();
     }
     
-    const Channel = Guild.channels.cache.get(CONFIG.DEFAULTS.VOICE_CHANNEL);
+    const Channel = Guild.channels.cache.get(CONFIG.DEFAULTS.seskanali);
     if(!Channel) {
         Voice.error("Ses Kanalı Bulunamadı!");
         return Voice.destroy();
