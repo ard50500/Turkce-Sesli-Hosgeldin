@@ -1,7 +1,7 @@
 {
     "DEFAULTS": {
         "sahip": [Botun Sahibinin ID si],
-        "ACTIVITY_TEXT": "Botun Durumu",
+        "oynuyor": "Botun Durumu",
         "GUILD_ID": "Server İD si",
         "VOICE_CHANNEL": "Ses Kanalının İD si",
         "MIN_STAFF_ROLE": "Yetkili Rolü İD si"
