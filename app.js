@@ -17,7 +17,7 @@ Voice.on("ready", async() => {
     Voice.user.setPresence({
         status: "dnd",
         activity: {
-            name: CONFIG.DEFAULTS.ACTIVITY_TEXT
+            name: CONFIG.DEFAULTS.oynuyor
         }
     });
 
