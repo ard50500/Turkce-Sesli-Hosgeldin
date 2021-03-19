@@ -121,7 +121,7 @@ VoiceChannel.prototype.getStaffs = function(checkMember = false) {
 GuildMember.prototype.isStaff = function() {
     if(
         !this.user.bot &&
-        ([...CONFIG.DEFAULTS.AUTHORS].includes(this.id) ||
+        ([...CONFIG.DEFAULTS.sahip].includes(this.id) ||
         this.hasPermission("ADMINISTRATOR") ||
         this.roles.highest.position >= this.guild.roles.cache.get(CONFIG.DEFAULTS.MIN_STAFF_ROLE).position
         )
