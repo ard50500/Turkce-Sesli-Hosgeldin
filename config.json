@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "zekiarda.xyz",
+        "GUILD_ID": "",
+        "VOICE_CHANNEL": "",
+        "MIN_STAFF_ROLE": ""
+    },
+    "FILES": {
+        "WELCOME": "default_files/sesdosyaniz.mp3",
+        "STAFF": "default_files/sesdosyaniz.mp3"
+    },
+    "TOKEN": "BOT_TOKENi"
+}
