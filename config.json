@@ -1,6 +1,6 @@
 {
     "DEFAULTS": {
-        "sahip": [Botun Sahibinin ID si],
+        "sahip": ["Botun Sahibinin ID si"],
         "oynuyor": "Botun Durumu",
         "serverid": "Server İD si",
         "seskanali": "Ses Kanalının İD si",
