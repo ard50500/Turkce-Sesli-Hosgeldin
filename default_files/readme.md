@@ -1,2 +1,0 @@
-
-Buraya Ses Dosyalarınızı Atıcaksınız
